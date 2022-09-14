@@ -1,2 +1,2 @@
-# C-
+# C++
 Scripts elaboraodos en C++
